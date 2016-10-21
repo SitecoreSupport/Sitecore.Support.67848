@@ -1,5 +1,5 @@
 # Sitecore.Support.67848
-Allow to prefill the `Checkbox List` field from the URL query string for MVC forms
+Allows to prefill the `Checkbox List` field from the URL query string for MVC forms
 
 ## Description
 The functionality to prefill the `Checkbox List` field from the URL query string is not implemented for MVC forms in WFFM 8.1 and older.
